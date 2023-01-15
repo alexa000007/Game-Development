@@ -1,1 +1,1 @@
-# Game-Development
+Game development: The act of creating a game; sometimes referred to as “gamedev.” The game development process typically requires input from one or more game designers, artists, programmers, animators, testers, project managers, etc., though some games have been created by just one or two game developers.
